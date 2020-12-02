@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Helvetica;
+  src: url(font/Helvetica.ttf);
+}
+
+body {
+  color: #fff;
+  background-color: #d8ac63;
+}
+
+.logo {
+  max-width: 240px;
+  margin-top: 120px;
+}
+
+.caption {
+  display: block;
+  font-size: 2em;
+  font-family: Helvetica;
+}
